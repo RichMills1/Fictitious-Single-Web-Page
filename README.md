@@ -1,7 +1,7 @@
 # Fictitious-Single-Web-Page
 
 
- A hands-on project taken on udemy.
+ My Personal Project.
 
  ## Technologies Used
 
